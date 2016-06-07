@@ -12,6 +12,7 @@ I have a broad experience, ranging from Java, PHP, and Python to front-end shena
 
 But I'm a constant learner and won't stop here. Bring it on.
 
-Here is my [resume][resume], by the way.
+Here is my resume in [english] and [portuguese], by the way.
 
-[resume]: /resume.html
+[english]: /resume(en).html
+[portuguese]: /resume(pt).html
