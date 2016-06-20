@@ -14,5 +14,5 @@ But I'm a constant learner and won't stop here. Bring it on.
 
 Here is my resume in [english] and [portuguese], by the way.
 
-[english]: /resume(en).html
-[portuguese]: /resume(pt).html
+[english]: /en
+[portuguese]: /pt
