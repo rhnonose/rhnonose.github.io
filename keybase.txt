@@ -4,7 +4,7 @@ https://keybase.io/rhnonose
 
 I hereby claim:
 
-  * I am an admin of http://nonose.io
+  * I am an admin of http://rhnonose.github.io
   * I am rhnonose (https://keybase.io/rhnonose) on keybase.
   * I have a public key with fingerprint 79C4 774C 5684 8922 236E  4EFF 00D8 CD34 34AF B2E1
 
@@ -22,7 +22,7 @@ To do so, I am signing this object:
             "username": "rhnonose"
         },
         "service": {
-            "hostname": "nonose.io",
+            "hostname": "rhnonose.github.io",
             "protocol": "http:"
         },
         "type": "web_service_binding",
