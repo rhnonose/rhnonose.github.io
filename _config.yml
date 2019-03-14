@@ -7,13 +7,13 @@
 
 # Site settings
 title: Rodrigo Nonose
-email: rodrigo.nonose89@gmail.com
+email: rodrigo.nonose89 at gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal website for stuff, like... stuff.
   Not sure what yet. I'm a software developer, by the way.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rhnonose.github.io" # the base hostname & protocol for your site
-twitter_username: RodrigoNonose
+twitter_username: backendwizard
 github_username:  rhnonose
 
 # Build settings
