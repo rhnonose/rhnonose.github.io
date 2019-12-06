@@ -7,7 +7,7 @@ permalink: /talks/
 ### Conference talks (en)
 
 - From Sync to Async: how Elixir educated me - Buenos Aires Erlang & Elixir Factory Lite - [conf page with video/slides][eflba]
-- Microservices with Elixir - Code BEAM SF - [website][codebeam]/[slides][codebeam-slides]
+- Microservices with Elixir - Code BEAM SF - [website][codebeam]/[slides][codebeam-slides]/[video][codebeam-video]
 - Migrating to an event-sourced system - [website][theconf]/[slides][theconf-slides]/[video][theconf-video]
 
 ### Conference talks (pt-br)
@@ -38,6 +38,7 @@ permalink: /talks/
 [devfest-slides]: {{ site.url }}/serverless.pdf
 [codebeam]: https://codesync.global/conferences/code-beam-sf-2019/
 [codebeam-slides]: {{ site.url }}/microservices_elixir.pdf
+[codebeam-video]: https://www.youtube.com/watch?v=F3sbvpvNT9w
 [devparana]: https://www.meetup.com/developerparana/
 [theconf]: https://www.theconf.club/
 [theconf-slides]: https://docs.google.com/presentation/d/1wsbD6Bf2iEsKT0CBi81vkdEba1X_teLMQrunZTZCzAk/edit?usp=sharing
