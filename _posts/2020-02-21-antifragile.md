@@ -41,6 +41,8 @@ Software is code and machine.
 This definition would make software at most robust since it's an inanimate artifact.
 But software that is constantly maintained gain system properties because of the human interaction (users, maintainers) and, hence, with the proper stressors, can become an antifragile system and [gain from disorder][chaos monkey].
 
+Thanks [sainani][saiani] for reviewing this blog and suggesting further reads.
+
 [agile meetup]: https://www.meetup.com/developerparana/events/268765209/)
 [antifragile]: https://en.wikipedia.org/wiki/Antifragile
 [taleb]: https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb
@@ -49,3 +51,4 @@ But software that is constantly maintained gain system properties because of the
 [via negativa]: https://en.wikipedia.org/wiki/Antifragile#Via_negativa
 [agile manifesto]: https://agilemanifesto.org/
 [chaos monkey]: https://netflix.github.io/chaosmonkey/
+[saiani]: https://github.com/gusaiani
