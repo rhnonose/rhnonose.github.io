@@ -28,9 +28,9 @@ It also recognized that, by letting individuals experiment and fail, it created 
 A lot of the practices may make the system antifragile.
 Pair programming shares knowledge and creates redundancy (a push from fragile to robust), increasing the [bus factor][bus factor].
 The simplicity principle of reducing unnecessary work also contributes to a more predictable change in the system [via negativa][via negativa].
-It also gives autonomy to teams, reducing cascading errors that the entire organization suffers.
+It also gives autonomy to teams, reducing cascading errors that makes the entire organization suffer.
 
-From the beginning of the "movement" (when the [manifesto][agile manifesto] was written), the agile methodologies surfaced as a winner in midst of failed other methodologies, so the weaker counterparts had already died.
+From the beginning of the "movement" (when the [manifesto][agile manifesto] was written), the agile methodologies surfaced as a winner among the other failed methodologies, so the weaker counterparts had already died.
 
 Self-organization also recognized that top-down control fragilizes the system whereas bottom-up emergence antifragilizes it.
 This is why the cargo-culting agile applied top-down rarely works and successful examples come from working with motivated individuals (as the manifesto states).
